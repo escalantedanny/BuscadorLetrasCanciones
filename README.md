@@ -1,2 +1,2 @@
 # BuscadorLetrasCanciones
-Pequeño buscador de letras de canciones, con ES6 y apri. rest lyrics
+Pequeño buscador de letras de canciones con Javascript en ES6 en la plataforma https://lyrics.ovh
